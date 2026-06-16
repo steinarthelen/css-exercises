@@ -1,1 +1,24 @@
 /* Add CSS Styling */
+
+.a_class {
+  background-color: rgb(255, 192, 203);
+  font-family: verdana; DejaVu Sans, sans-serif;
+  font-size: 26px;
+}
+
+#one_id {
+  color: rgb(0, 0, 255);
+  font-size: 36px;
+}
+
+.cool_class {
+  background-color: rgb(255, 192, 203);
+  font-family: verdana; DejaVu Sans, sans-serif;
+  font-size: 32px;
+}
+
+#another_id {
+  font-weight: bold;
+  font-size: 26px;
+  background-color: rgb(175, 238, 238);
+}
