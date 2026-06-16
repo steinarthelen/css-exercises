@@ -1,1 +1,10 @@
 /* Add CSS Styling */
+
+div p {
+  background-color: yellow;
+  color: red;
+  font-size: 20px;
+  text-align: center;
+}
+
+/* Tenkte også på å bruke container siden den classen var der, men div burde funke like bra */
